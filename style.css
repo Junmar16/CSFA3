@@ -1,0 +1,36 @@
+body {
+    background-image : url("mimi.jpg") ;
+    background-attachment : fixed;
+    background-repeat : no-repeat;
+    background-position : center;
+    background-size: 120%;
+}
+h1 {
+    border: 2px dotted blue;
+    text-align: center ;
+    background-color: #00ffff ;
+    font-family: sans-serif;
+    padding-bottom: 10px ;
+    padding-top: 10px ;
+    padding-left: 15px ;
+    padding-right: 15px;
+    width: 250px ;
+    margin-bottom: 20px ;
+}
+p {
+    text-align: justify;
+    background-color: hsl(147, 58%, 43%);
+    padding: 20px ;
+    border-top: 3px black dashed;
+    border-bottom: 3px black dotted;
+    border-left: 3px black initial;
+    border-right: 3px black double;
+    width: 500px;
+}
+span {
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(34, 69, 172);
+    margin-left: 2px;
+    margin-right: 5px ;
+}
